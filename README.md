@@ -9,12 +9,13 @@ add project functionality to the tasks. User should be able to select a project 
 
 How to set up:
 1.Run git clone https://github.com/YuraArshakyan/task-sorter.git
-2.Run composer install
+2.Go via the terminal to the folder with the project files and run composer install
 3.Run cp .env.example .env
 4.Run php artisan key:generate
 5.Run php artisan migrate
 6.Run php artisan serve
 7.Go to link localhost:8000
 
+You can create entries through the button in the upper right part of the screen.
 Don't forget to turn on the local server
 Enjoy the project
