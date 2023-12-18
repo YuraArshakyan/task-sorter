@@ -16,4 +16,5 @@ How to set up:
 6.Run php artisan serve
 7.Go to link localhost:8000
 
+Don't forget to turn on the local server
 Enjoy the project
