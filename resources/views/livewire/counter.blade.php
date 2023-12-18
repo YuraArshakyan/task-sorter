@@ -9,7 +9,7 @@
             </div>
         </div>
         <a href="{{url('edit/'. $task->id)}}" class="card-danger">Edit</a>
-        <a href="{{url('deleste/'. $task->id)}}" class="card-danger">Delete</a>
+        <a href="{{url('delete/'. $task->id)}}" class="card-danger">Delete</a>
     @endforeach
 </ul>
 
