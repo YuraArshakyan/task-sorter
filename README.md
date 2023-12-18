@@ -7,12 +7,6 @@ Reorder tasks with drag and drop in the browser. Priority should automatically b
 Tasks should be saved to a mysql table.
 add project functionality to the tasks. User should be able to select a project from a dropdown and only view tasks associated with that project.
 
-You will be graded on how well-written & readable your code is, if it works, and if you did it the Laravel way.
-
-Include any instructions on how to set up & deploy the web application in your Readme.md file in the project directory (delete the default readme).
-
-Zip up the folder with your web application when you are finished and upload it here.
-
 How to set up:
 1.Run git clone https://github.com/YuraArshakyan/task-sorter.git
 2.Run composer install
